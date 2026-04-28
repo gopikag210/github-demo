@@ -17,7 +17,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: deploy phase
-        run: "welcome to deploy phase"
+        run: echo "welcome to deploy phase"
         
         
    
